@@ -12,10 +12,8 @@ Created a local instance of SQLite using Datagrip.
 
 <html>
   
-<script> 
-        type="module" 
-        src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js">
-</script>
+<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+
 
 <tableau-viz id="tableauViz"       
   src='https://public.tableau.com/views/Top3MichelinStarRestaurants2018-2019'>
@@ -23,11 +21,6 @@ Created a local instance of SQLite using Datagrip.
 
   
 </html>
-
-
-<tableau-viz id="tableauViz"       
-  src='http://my-server/views/my-workbook/my-view'>
-</tableau-viz>
 
 
 
