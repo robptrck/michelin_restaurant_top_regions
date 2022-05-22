@@ -12,7 +12,7 @@ Created a local instance of SQLite using Datagrip.
 
 <html>
   
-<script 
+<script> 
         type="module" 
         src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js">
 </script>
