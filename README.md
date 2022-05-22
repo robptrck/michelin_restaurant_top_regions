@@ -8,11 +8,6 @@ Created a local instance of SQLite using Datagrip.
 
 <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
 
-<div id='tableauViz'></div>
-
-<tableau-viz id="tableauViz" 
-      src='https://public.tableau.com/views/Top3MichelinStarRestaurants2018-2019'>
-</tableau-viz>
 
 
 
