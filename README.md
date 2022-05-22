@@ -31,4 +31,4 @@ sql_result
 
 - Exported the data to an excel file and added it to Tableau Public
 
-<img src="https://github.com/robptrck/michelin_restaurant_top_regions/blob/main/Screen%20Shot%202022-05-21%20at%208.47.43%20PM.png" width="500">
+<img src="https://github.com/robptrck/michelin_restaurant_top_regions/blob/main/tableau_michelin.png" width="300">
