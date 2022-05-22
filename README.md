@@ -23,11 +23,11 @@ union_all_create_new_table
 
 sql_ranking_query
 
-<img src="https://github.com/robptrck/michelin_restaurant_top_regions/blob/main/sql_ranking_query.png" width="300">
+<img src="https://github.com/robptrck/michelin_restaurant_top_regions/blob/main/sql_ranking_query.png" width="400">
 
 sql_result
 
-<img src="https://github.com/robptrck/michelin_restaurant_top_regions/blob/main/sql_result.png" width="300">
+<img src="https://github.com/robptrck/michelin_restaurant_top_regions/blob/main/sql_result.png" width="400">
 
 - Exported the data to an excel file and added it to Tableau Public
 
