@@ -6,8 +6,9 @@ Using DataGrip, Kaggle and Tableau to visualize the top regions for 3 star Miche
 
 Created a local instance of SQLite using Datagrip.
 
+<html>
 <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
-
+</html>
 
 
 
