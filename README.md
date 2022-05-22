@@ -32,3 +32,5 @@ sql_result
 - Exported the data to an excel file and added it to Tableau Public
 
 <img src="https://github.com/robptrck/michelin_restaurant_top_regions/blob/main/tableau_michelin.png" width="300">
+
+- If I go back to this project, I would first validate the data by checking if a restaurant which had received a michelin star rating in 2018 had a different rating in 2019 and would have created a unique id to avoid counting duplicate values. This is not necessary for this project, as I was strictly looking at 3 michelin star restaurants, but if you wanted to continue to use this data set it would be necessary to keep in mind that there is a potential for the same restaurant to be included in 2018 and 2019 but having a different number of stars.
