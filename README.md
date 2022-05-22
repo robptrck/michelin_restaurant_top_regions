@@ -6,12 +6,20 @@ Using DataGrip, Kaggle and Tableau to visualize the top regions for 3 star Miche
 
 Created a local instance of SQLite using Datagrip.
 
+<div id='tableauViz'></div>
 
-<script src = "https://myserver/javascripts/api/tableau.embedding.3.0.0-alpha.23.js"></script>
 <tableau-viz id="tableauViz" 
-    src="https%3A%2F%2Fpublic.tableau.com%2F" 
-    device="phone" toolbar="bottom" hide-tabs>
+      src='http://my-server/views/my-workbook/my-view'>
 </tableau-viz>
+
+
+
+
+
+
+
+
+
 
 
 
