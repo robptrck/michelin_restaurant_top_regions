@@ -9,7 +9,7 @@ Created a local instance of SQLite using Datagrip.
 <div id='tableauViz'></div>
 
 <tableau-viz id="tableauViz" 
-      src='http://my-server/views/my-workbook/my-view'>
+      src='https://public.tableau.com/views/Top3MichelinStarRestaurants2018-2019/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link'>
 </tableau-viz>
 
 
