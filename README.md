@@ -9,7 +9,7 @@ Created a local instance of SQLite using Datagrip.
 
 <script src = "https://myserver/javascripts/api/tableau.embedding.3.0.0-alpha.23.js"></script>
 <tableau-viz id="tableauViz" 
-    src="http://my-server/views/my-workbook/my-view" 
+    src="https%3A%2F%2Fpublic.tableau.com%2F" 
     device="phone" toolbar="bottom" hide-tabs>
 </tableau-viz>
 
