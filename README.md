@@ -10,7 +10,7 @@ Using DataGrip, Kaggle and Tableau to visualize the top regions for 3 star Miche
 
 <img src="https://github.com/robptrck/michelin_restaurant_top_regions/blob/main/data_cleaning.png" width="300">
 
-- I removed the column as it wasn't necessary and included many nulls, but could have changed the data type to varchar.
+- I removed the zip code column as it wasn't necessary and included many nulls, but could have changed the data type to varchar.
 - I had 3 separate .csv files for 1, 2, and 3 michelin star restuarants but wanted to combine them and manipulate them based on the number of stars they have, so I created a new column with the number of stars each restaurant had.
 
 <img src="https://github.com/robptrck/michelin_restaurant_top_regions/blob/main/adding_missing_column.png" width="300">
