@@ -8,6 +8,12 @@ Created a local instance of SQLite using Datagrip.
 
 
 
+<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/rob.patrick8798/viz/Top3MichelinStarRestaurants2018-2019/Sheet1?publish=yes" width = '650' height = '450' scrolling='yes' ></iframe>    
+
+
+https://public.tableau.com/app/profile/rob.patrick8798/viz/Top3MichelinStarRestaurants2018-2019/Sheet1?publish=yes
+
+
 ## Test **Test**
 
 <img src="https://github.com/robptrck/michelin_restaurant_top_regions/blob/main/Screen%20Shot%202022-05-21%20at%206.19.44%20PM.png" width="500">
