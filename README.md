@@ -17,9 +17,9 @@ Created a local instance of SQLite using Datagrip.
 
 ## Test **Test**
 
-<img src="https://github.com/robptrck/michelin_restaurant_top_regions/blob/main/Screen%20Shot%202022-05-21%20at%206.19.44%20PM.png" width="500">
 
-## Test
+
+### Test
 
 adding_missing_column
 
